@@ -1,0 +1,14 @@
+A hacker is a person skilled in information technology who uses their technical knowledge to achieve a goal or overcome an obstacle, within a computerized system by non-standard means. Though the term hacker has become associated in popular culture with a security hacker – someone who utilizes their technical know-how of bugs or exploits to break into computer systems and access data which would otherwise be inaccessible to them – hacking can also be utilized by legitimate figures in legal situations. For example, law enforcement agencies sometimes use hacking techniques in order to collect evidence on criminals and other malicious actors. This could include using anonymity tools (such as a VPN, or the dark web) to mask their identities online, posing as criminals themselves.[1][2] Likewise, covert world agencies can employ hacking techniques in the legal conduct of their work. On the other hand, hacking and cyber-attacks are used extra- and illegally by law enforcement and security agencies (conducting warrantless activities), and employed by state actors as a weapon of both legal and illegal warfare.
+
+Today, mainstream usage of "hacker" mostly refers to computer criminals, due to the mass media usage of the word since the 1990s.[5] This includes what hacker slang calls "script kiddies", people breaking into computers using programs written by others, with very little knowledge about the way they work. This usage has become so predominant that the general public is largely unaware that different meanings exist.[6] While the self-designation of hobbyists as hackers is generally acknowledged and accepted by computer security hackers, people from the programming subculture consider the computer intrusion related usage incorrect, and emphasize the difference between the two by calling security breakers "crackers" (analogous to a safecracker).
+
+
+
+________________________________________________________________
+
+
+This article is about people who write computer software. For other uses, see Programmer (disambiguation).
+"Coder" redirects here. For someone who performs coding in the social sciences, see Coding (social sciences). For someone who performs medical coding, see Clinical coder. For the unincorporated community in Pennsylvania, see Coder, Pennsylvania.
+A computer programmer, sometimes referred to as a software developer, a software engineer, a programmer, or more recently a coder (especially in more informal contexts), is a person who creates computer software.
+
+A programmer's most often-used computer language (e.g., Assembly, C, C++, C#, JavaScript, Lisp, Python, Java, etc.) may be prefixed to the aforementioned terms. Some who work with web programming languages may also prefix their titles with web.
