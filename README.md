@@ -1,2 +1,2 @@
 # Dasturlash-Olami
-Bu mening birinchi git hubga qoygan 1 - dasturim
+Bu mening git hubga qoygan 1 - dasturim
